@@ -13,4 +13,4 @@ Part 3:
 1. Enter the size of the array
 2. Choose a number between 1 to 127 to search in the array
 
-(Second java project, semester 1, software engineering bachelor degree)
+(Second Java project, semester 1, software engineering bachelor degree)
